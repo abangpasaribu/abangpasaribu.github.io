@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://blog/./src/pages/home.js"],"names":["index"],"mappings":"yJAEe,SAASA,IACtB,OAAO","file":"component---src-pages-home-js-c0f9646d845d818d861f.js","sourcesContent":["import React from \"react\"\n\nexport default function index() { \n  return <h1>I am home</h1>\n}\n"],"sourceRoot":""}
