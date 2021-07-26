@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://blog/./src/pages/index.js"],"names":["index"],"mappings":"0JAEe,SAASA,IACtB,OAAO","file":"component---src-pages-index-js-b847f65cc67ce8b898a7.js","sourcesContent":["import React from \"react\"\n\nexport default function index() { \n  return <h1>Hello...</h1>\n}\n"],"sourceRoot":""}
